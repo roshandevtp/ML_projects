@@ -13,10 +13,10 @@ df = pd.read_csv("cleaned_df.csv")
 with st.sidebar:
 
     st.title("House Price Prediction App")
-    st.image("download.png", width= 200)
+    st.image("download.png", width= 250)
 
 st.title("House Price Prediction")
-st.image("download.png", width= 200)
+st.image("download.png", width= 300)
 
 with st.container(border= True):
 
