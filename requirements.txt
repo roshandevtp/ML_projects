@@ -37,9 +37,9 @@ matplotlib-inline==0.2.2
 mdurl==0.1.2
 narwhals==2.22.1
 nest-asyncio2==1.7.2
-numpy==1.26.4
+numpy
 packaging==23.2
-pandas==2.3.3
+pandas
 parso==0.8.7
 pillow==10.4.0
 platformdirs==4.10.0
@@ -58,9 +58,9 @@ referencing==0.37.0
 requests==2.34.2
 rich==13.9.4
 rpds-py==2026.5.1
-scikit-learn==1.9.0
+scikit-learn
 scipy==1.17.1
-seaborn==0.13.2
+seaborn
 six==1.17.0
 smmap==5.0.3
 stack-data==0.6.3
